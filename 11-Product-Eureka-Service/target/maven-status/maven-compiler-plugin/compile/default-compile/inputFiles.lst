@@ -1,0 +1,10 @@
+/Users/ashujauhari/Downloads/TestApi-main/11-Product-Eureka-Service/src/main/java/com/cg/entity/Product.java
+/Users/ashujauhari/Downloads/TestApi-main/11-Product-Eureka-Service/src/main/java/com/cg/exception/ErrorDetails.java
+/Users/ashujauhari/Downloads/TestApi-main/11-Product-Eureka-Service/src/main/java/com/cg/exception/GlobalExceptionHandler.java
+/Users/ashujauhari/Downloads/TestApi-main/11-Product-Eureka-Service/src/main/java/com/cg/repository/ProductRepository.java
+/Users/ashujauhari/Downloads/TestApi-main/11-Product-Eureka-Service/src/main/java/com/cg/service/ProductImpl.java
+/Users/ashujauhari/Downloads/TestApi-main/11-Product-Eureka-Service/src/main/java/com/cg/dto/copy/ProductDTO.java
+/Users/ashujauhari/Downloads/TestApi-main/11-Product-Eureka-Service/src/main/java/com/cg/Application.java
+/Users/ashujauhari/Downloads/TestApi-main/11-Product-Eureka-Service/src/main/java/com/cg/exception/ResourceNotFound.java
+/Users/ashujauhari/Downloads/TestApi-main/11-Product-Eureka-Service/src/main/java/com/cg/controller/ProductController.java
+/Users/ashujauhari/Downloads/TestApi-main/11-Product-Eureka-Service/src/main/java/com/cg/service/IProductService.java

@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.cg.test.ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.195 s <<< FAILURE! - in com.cg.test.ApplicationTests
+com.cg.test.ApplicationTests  Time elapsed: 0.195 s  <<< ERROR!
+java.lang.NoSuchMethodError: 'org.junit.jupiter.api.extension.ExecutableInvoker org.junit.jupiter.api.extension.ExtensionContext.getExecutableInvoker()'
+
